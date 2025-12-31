@@ -4,11 +4,7 @@
 - [Project Description](#project-description)
 - [Project Details](#project-details)
 - [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-  - [Frontend Setup](#frontend-setup)
-  - [Backend Setup](#backend-setup)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## 📝 Project Description
@@ -25,13 +21,6 @@ This project analyzes the California housing dataset to build predictive models 
 - Scikit-learn
 - Matplotlib/Seaborn
 
-## 🚀 Getting Started
-
-### Frontend Setup
-Instructions for frontend setup will be added here.
-
-### Backend Setup
-Instructions for backend setup will be added here.
 
 ## 📁 Project Structure
 ```
@@ -40,9 +29,6 @@ CaliFornia-House-Price-Prediction/
 ├── housing.csv
 └── README.md
 ```
-
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## 📬 Contact
 For any queries or suggestions, feel free to reach out:
